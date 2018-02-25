@@ -103,3 +103,24 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/python
+
+
+# Created by https://www.gitignore.io/api/venv
+
+### venv ###
+# Linux
+bin/ 
+lib/
+include/
+
+# Window
+Include/
+Lib/
+Scripts/
+
+# Shared
+pyvenv.cfg
+
+
+
+# End of https://www.gitignore.io/api/venv
